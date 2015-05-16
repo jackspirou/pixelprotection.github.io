@@ -83,6 +83,17 @@
   margin-bottom: 4rem;
 }
 
+/* Twitter
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.twitter {
+  background-image: url('http://www.lifeofpix.com/wp-content/uploads/2015/03/Life-of-Pix-free-stock-photos-feet-sneakers-terrace-wood-julien-sister.jpg');
+  background-size: cover;
+  color: #fff;
+}
+.twitter .section-description {
+  margin-bottom: 4rem;
+}
+
 /* Bigger than 550 */
 @media (min-width: 550px) {
   .section {
